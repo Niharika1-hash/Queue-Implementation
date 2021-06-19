@@ -1,4 +1,9 @@
-
+/*
+ Name:-    Niharika Poddar
+ Date:-    19th June, 2021
+ Project:- Queue Implementation from scratch
+ LinearQueue class containing all operations pertaining to a Linear Queue.
+ */
 public class LinearQueue extends Queue
 {
 	void init()
