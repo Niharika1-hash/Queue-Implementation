@@ -1,4 +1,9 @@
-
+/*
+ Name:-    Niharika Poddar
+ Date:-    19th June, 2021
+ Project:- Queue Implementation from scratch
+ DeQueue class containing all operations pertaining to a Double-Ended Queue. Implemented as a variant of Linear Queue.
+ */
 public class DQueue extends LinearQueue
 {
 	void init()
