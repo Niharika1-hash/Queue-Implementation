@@ -1,3 +1,10 @@
+/*
+ Name:-    Niharika Poddar
+ Date:-    19th June, 2021
+ Project:- Queue Implementation from scratch
+ Queue class (logically abstract) containing generic queue operation functions
+ */
+
 import java.util.*;
 public class Queue 
 {
@@ -21,6 +28,8 @@ public class Queue
 	{
 	
 	}
+	
+	//applicable to Linear Queue
 	boolean underflow()
 	{
 		if(front>rear)
@@ -30,6 +39,8 @@ public class Queue
 		return false;
 		
 	}
+	
+	//Applicable to Linear Queue
 	boolean overflow()
 	{
 		if(rear == size-1)
