@@ -1,4 +1,9 @@
-
+/*
+ Name:-    Niharika Poddar
+ Date:-    19th June, 2021
+ Project:- Queue Implementation from scratch
+ CircularQueue class containing all operations pertaining to a Circular Queue.
+ */
 public class CircularQueue extends Queue
 {
 	int count = 0;
