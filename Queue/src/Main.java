@@ -1,3 +1,10 @@
+/*
+ Name:-    Niharika Poddar
+ Date:-    19th June, 2021
+ Project:- Queue Implementation from scratch
+
+ Main class containing Main function.
+ */
 
 import java.util.*;
 public class Main 
